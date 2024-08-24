@@ -1,2 +1,2 @@
 here's the result
-![image](C:\Python\udemy\python進階\6_webScrapping\PTT-hot_scrapping)
+![ptt_hottt](https://github.com/user-attachments/assets/63b655d3-108a-4c63-826a-b6be960b5d91)
